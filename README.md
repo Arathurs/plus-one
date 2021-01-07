@@ -7,7 +7,7 @@ The digits are stored such that the most significant digit is at the head of the
 You may assume the integer does not contain any leading zero, except the number 0 itself.
 
 ### Solution 1
-An iterative bottom-up approach (), which implements a reverse loop, suiting the style of the problem (plus one to the last integer).
+An iterative bottom-up approach, found in `plusOne.js`, which implements a reverse loop, suiting the style of the problem (plus one to the last integer).
 
 #### Example 1:
 
